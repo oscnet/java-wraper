@@ -1,8 +1,9 @@
 # java-wrapper
 
 将jar 文件设为windows 服务并自动启动
-generated using http://wrapper.tanukisoftware.com/doc/english/integrate-simple-win.html
+generated using [wrapper](http://wrapper.tanukisoftware.com/doc/english/integrate-simple-win.html)
 
+请查上以上文档
 
 ## usage
 
