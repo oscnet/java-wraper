@@ -1,0 +1,83 @@
+STATUS | wrapper  | 2016/05/14 11:24:36 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/05/14 11:24:36 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 11:24:36 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 11:24:36 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 11:24:36 | 
+STATUS | wrapper  | 2016/05/14 11:24:36 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 11:24:37 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 11:24:40 | [2016-05-14 11:24:40,890][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:24:40 | -=[web started successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,156][INFO][luminus.http-server] starting HTTP server on port 3000
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,203][INFO][org.xnio] XNIO version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,218][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,359][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,359][INFO][web.core] #'web.config/env started
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,359][INFO][web.core] #'web.handler/init-app started
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,359][INFO][web.core] #'web.core/http-server started
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,359][INFO][web.core] #'web.core/repl-server started
+INFO   | jvm 1    | 2016/05/14 11:24:43 | [2016-05-14 11:24:43,359][INFO][web.core] #'web.core/log started
+STATUS | wrapper  | 2016/05/14 11:24:47 | CTRL-C trapped.  Shutting down.
+INFO   | jvm 1    | 2016/05/14 11:24:47 | [2016-05-14 11:24:47,875][INFO][luminus.http-server] HTTP server stopped
+INFO   | jvm 1    | 2016/05/14 11:24:47 | [2016-05-14 11:24:47,875][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:24:47 | -=[web has shutdown successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:24:47 | [2016-05-14 11:24:47,875][INFO][web.core] #'web.core/repl-server stopped
+INFO   | jvm 1    | 2016/05/14 11:24:47 | [2016-05-14 11:24:47,875][INFO][web.core] #'web.core/http-server stopped
+INFO   | jvm 1    | 2016/05/14 11:24:47 | [2016-05-14 11:24:47,875][INFO][web.core] #'web.handler/init-app stopped
+STATUS | wrapper  | 2016/05/14 11:24:48 | <-- Wrapper Stopped
+STATUS | wrapperm | 2016/05/14 14:06:18 | @app.long.name@ service installed.
+STATUS | wrapperm | 2016/05/14 14:06:50 | @app.long.name@ service removed.
+STATUS | wrapper  | 2016/05/14 14:12:26 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/05/14 14:12:26 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 14:12:26 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 14:12:26 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 14:12:26 | 
+STATUS | wrapper  | 2016/05/14 14:12:26 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 14:12:26 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 14:12:30 | [2016-05-14 14:12:30,625][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 14:12:30 | -=[web started successfully]=-
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:32,968][INFO][luminus.http-server] starting HTTP server on port 3000
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,015][INFO][org.xnio] XNIO version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,031][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,171][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,171][INFO][web.core] #'web.config/env started
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,171][INFO][web.core] #'web.handler/init-app started
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,171][INFO][web.core] #'web.core/http-server started
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,171][INFO][web.core] #'web.core/repl-server started
+INFO   | jvm 1    | 2016/05/14 14:12:33 | [2016-05-14 14:12:33,171][INFO][web.core] #'web.core/log started
+STATUS | wrapper  | 2016/05/14 14:12:43 | CTRL-C trapped.  Shutting down.
+INFO   | jvm 1    | 2016/05/14 14:12:43 | [2016-05-14 14:12:43,312][INFO][luminus.http-server] HTTP server stopped
+INFO   | jvm 1    | 2016/05/14 14:12:43 | [2016-05-14 14:12:43,312][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 14:12:43 | -=[web has shutdown successfully]=-
+INFO   | jvm 1    | 2016/05/14 14:12:43 | [2016-05-14 14:12:43,312][INFO][web.core] #'web.core/repl-server stopped
+INFO   | jvm 1    | 2016/05/14 14:12:43 | [2016-05-14 14:12:43,312][INFO][web.core] #'web.core/http-server stopped
+INFO   | jvm 1    | 2016/05/14 14:12:43 | [2016-05-14 14:12:43,312][INFO][web.core] #'web.handler/init-app stopped
+STATUS | wrapper  | 2016/05/14 14:12:43 | <-- Wrapper Stopped
+STATUS | wrapperm | 2016/05/14 14:12:50 | webtest service installed.
+STATUS | wrapper  | 2016/05/14 14:13:24 | --> Wrapper Started as Service
+STATUS | wrapper  | 2016/05/14 14:13:24 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 14:13:24 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 14:13:24 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 14:13:24 | 
+STATUS | wrapper  | 2016/05/14 14:13:24 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 14:13:24 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 14:13:28 | [2016-05-14 14:13:28,562][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 14:13:28 | -=[web started successfully]=-
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:30,937][INFO][luminus.http-server] starting HTTP server on port 3000
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:30,968][INFO][org.xnio] XNIO version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:30,984][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:31,125][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:31,125][INFO][web.core] #'web.config/env started
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:31,125][INFO][web.core] #'web.handler/init-app started
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:31,125][INFO][web.core] #'web.core/http-server started
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:31,125][INFO][web.core] #'web.core/repl-server started
+INFO   | jvm 1    | 2016/05/14 14:13:31 | [2016-05-14 14:13:31,125][INFO][web.core] #'web.core/log started
+STATUS | wrapperm | 2016/05/14 14:13:54 | Service is running.  Stopping it...
+INFO   | jvm 1    | 2016/05/14 14:13:55 | [2016-05-14 14:13:55,156][INFO][luminus.http-server] HTTP server stopped
+INFO   | jvm 1    | 2016/05/14 14:13:55 | [2016-05-14 14:13:55,156][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 14:13:55 | -=[web has shutdown successfully]=-
+INFO   | jvm 1    | 2016/05/14 14:13:55 | [2016-05-14 14:13:55,156][INFO][web.core] #'web.core/repl-server stopped
+INFO   | jvm 1    | 2016/05/14 14:13:55 | [2016-05-14 14:13:55,156][INFO][web.core] #'web.core/http-server stopped
+INFO   | jvm 1    | 2016/05/14 14:13:55 | [2016-05-14 14:13:55,156][INFO][web.core] #'web.handler/init-app stopped
+STATUS | wrapper  | 2016/05/14 14:13:55 | <-- Wrapper Stopped
+STATUS | wrapperm | 2016/05/14 14:13:56 | webtest service stopped.
+STATUS | wrapperm | 2016/05/14 14:13:56 | webtest service removed.

@@ -1,0 +1,150 @@
+WARN   | wrapper  | 2016/05/14 11:07:12 | Unable to write to the configured log directory: ..\logs (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:07:12 |   The directory does not exist.
+WARN   | wrapper  | 2016/05/14 11:07:12 | Unable to write to the configured log file: ..\logs\wrapper.log (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:07:12 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2016/05/14 11:07:12 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/05/14 11:07:12 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 11:07:12 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 11:07:12 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 11:07:12 | 
+STATUS | wrapper  | 2016/05/14 11:07:12 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperSimpleApp Error: Not enough argments.  Minimum 1 required.
+INFO   | jvm 1    | 2016/05/14 11:07:13 | 
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: Error in WrapperListener.start callback.  java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at java.text.MessageFormat.makeFormat(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at java.text.MessageFormat.applyPattern(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at java.text.MessageFormat.<init>(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at java.text.MessageFormat.format(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperResources.getString(WrapperResources.java:194)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.showUsage(WrapperSimpleApp.java:597)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.start(WrapperSimpleApp.java:441)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperManager$11.run(WrapperManager.java:4242)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: Caused by: java.lang.NumberFormatException: For input string: "app_class{/app_method}"
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:07:13 | WrapperManager Error: 	... 8 more
+STATUS | wrapper  | 2016/05/14 11:07:14 | <-- Wrapper Stopped
+WARN   | wrapper  | 2016/05/14 11:08:59 | Unable to write to the configured log directory: ..\logs (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:08:59 |   The directory does not exist.
+WARN   | wrapper  | 2016/05/14 11:08:59 | Unable to write to the configured log file: ..\logs\wrapper.log (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:08:59 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2016/05/14 11:08:59 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/05/14 11:08:59 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 11:08:59 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 11:08:59 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 11:08:59 | 
+STATUS | wrapper  | 2016/05/14 11:08:59 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 11:08:59 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperSimpleApp Error: Unable to locate the class web.core : java.lang.ClassNotFoundException: web.core
+INFO   | jvm 1    | 2016/05/14 11:09:00 | 
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperSimpleApp Usage:
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: Error in WrapperListener.start callback.  java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: java.lang.IllegalArgumentException: can't parse argument number: app_class{/app_method}
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at java.text.MessageFormat.makeFormat(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at java.text.MessageFormat.applyPattern(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at java.text.MessageFormat.<init>(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at java.text.MessageFormat.format(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperResources.getString(WrapperResources.java:194)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.showUsage(WrapperSimpleApp.java:597)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperSimpleApp.start(WrapperSimpleApp.java:441)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at org.tanukisoftware.wrapper.WrapperManager$11.run(WrapperManager.java:4242)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: Caused by: java.lang.NumberFormatException: For input string: "app_class{/app_method}"
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at java.lang.NumberFormatException.forInputString(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	at java.lang.Integer.parseInt(Unknown Source)
+INFO   | jvm 1    | 2016/05/14 11:09:00 | WrapperManager Error: 	... 8 more
+STATUS | wrapper  | 2016/05/14 11:09:01 | <-- Wrapper Stopped
+WARN   | wrapper  | 2016/05/14 11:17:13 | Unable to write to the configured log directory: ..\logs (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:17:13 |   The directory does not exist.
+WARN   | wrapper  | 2016/05/14 11:17:13 | Unable to write to the configured log file: ..\logs\wrapper.log (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:17:13 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2016/05/14 11:17:13 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/05/14 11:17:13 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 11:17:13 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 11:17:13 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 11:17:13 | 
+STATUS | wrapper  | 2016/05/14 11:17:13 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 11:17:13 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 11:17:17 | [2016-05-14 11:17:17,906][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:17:17 | -=[web started successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,468][INFO][luminus.http-server] starting HTTP server on port 3000
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,500][INFO][org.xnio] XNIO version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,515][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,671][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,671][INFO][web.core] #'web.config/env started
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,671][INFO][web.core] #'web.handler/init-app started
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,671][INFO][web.core] #'web.core/http-server started
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,671][INFO][web.core] #'web.core/repl-server started
+INFO   | jvm 1    | 2016/05/14 11:17:20 | [2016-05-14 11:17:20,671][INFO][web.core] #'web.core/log started
+STATUS | wrapper  | 2016/05/14 11:17:39 | CTRL-C trapped.  Shutting down.
+INFO   | jvm 1    | 2016/05/14 11:17:41 | [2016-05-14 11:17:40,953][INFO][luminus.http-server] HTTP server stopped
+INFO   | jvm 1    | 2016/05/14 11:17:41 | [2016-05-14 11:17:40,953][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:17:41 | -=[web has shutdown successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:17:41 | [2016-05-14 11:17:40,953][INFO][web.core] #'web.core/repl-server stopped
+INFO   | jvm 1    | 2016/05/14 11:17:41 | [2016-05-14 11:17:40,953][INFO][web.core] #'web.core/http-server stopped
+INFO   | jvm 1    | 2016/05/14 11:17:41 | [2016-05-14 11:17:40,953][INFO][web.core] #'web.handler/init-app stopped
+STATUS | wrapper  | 2016/05/14 11:17:41 | <-- Wrapper Stopped
+WARN   | wrapper  | 2016/05/14 11:22:32 | Unable to write to the configured log directory: ..\logs (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:22:32 |   The directory does not exist.
+WARN   | wrapper  | 2016/05/14 11:22:32 | Unable to write to the configured log file: ..\logs\wrapper.log (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:22:32 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2016/05/14 11:22:32 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/05/14 11:22:32 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 11:22:32 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 11:22:32 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 11:22:32 | 
+STATUS | wrapper  | 2016/05/14 11:22:33 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 11:22:33 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 11:22:37 | [2016-05-14 11:22:37,500][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:22:37 | -=[web started successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,015][INFO][luminus.http-server] starting HTTP server on port 3000
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,046][INFO][org.xnio] XNIO version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,062][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,218][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,218][INFO][web.core] #'web.config/env started
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,218][INFO][web.core] #'web.handler/init-app started
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,218][INFO][web.core] #'web.core/http-server started
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,218][INFO][web.core] #'web.core/repl-server started
+INFO   | jvm 1    | 2016/05/14 11:22:40 | [2016-05-14 11:22:40,218][INFO][web.core] #'web.core/log started
+STATUS | wrapper  | 2016/05/14 11:22:58 | CTRL-C trapped.  Shutting down.
+INFO   | jvm 1    | 2016/05/14 11:22:59 | [2016-05-14 11:22:59,812][INFO][luminus.http-server] HTTP server stopped
+INFO   | jvm 1    | 2016/05/14 11:22:59 | [2016-05-14 11:22:59,812][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:22:59 | -=[web has shutdown successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:22:59 | [2016-05-14 11:22:59,812][INFO][web.core] #'web.core/repl-server stopped
+INFO   | jvm 1    | 2016/05/14 11:22:59 | [2016-05-14 11:22:59,812][INFO][web.core] #'web.core/http-server stopped
+INFO   | jvm 1    | 2016/05/14 11:22:59 | [2016-05-14 11:22:59,812][INFO][web.core] #'web.handler/init-app stopped
+STATUS | wrapper  | 2016/05/14 11:23:00 | <-- Wrapper Stopped
+WARN   | wrapper  | 2016/05/14 11:24:03 | Unable to write to the configured log directory: ..\logs (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:24:03 |   The directory does not exist.
+WARN   | wrapper  | 2016/05/14 11:24:03 | Unable to write to the configured log file: ..\logs\wrapper.log (系统找不到指定的路径。 (0x3))
+WARN   | wrapper  | 2016/05/14 11:24:03 |   Falling back to the default file in the current working directory: wrapper.log
+STATUS | wrapper  | 2016/05/14 11:24:03 | --> Wrapper Started as Console
+STATUS | wrapper  | 2016/05/14 11:24:03 | Java Service Wrapper Community Edition 32-bit 3.5.29
+STATUS | wrapper  | 2016/05/14 11:24:03 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/05/14 11:24:03 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/05/14 11:24:03 | 
+STATUS | wrapper  | 2016/05/14 11:24:04 | Launching a JVM...
+INFO   | jvm 1    | 2016/05/14 11:24:04 | WrapperManager: Initializing...
+INFO   | jvm 1    | 2016/05/14 11:24:08 | [2016-05-14 11:24:08,609][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:24:08 | -=[web started successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,109][INFO][luminus.http-server] starting HTTP server on port 3000
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,156][INFO][org.xnio] XNIO version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,171][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,312][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,312][INFO][web.core] #'web.config/env started
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,312][INFO][web.core] #'web.handler/init-app started
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,312][INFO][web.core] #'web.core/http-server started
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,312][INFO][web.core] #'web.core/repl-server started
+INFO   | jvm 1    | 2016/05/14 11:24:11 | [2016-05-14 11:24:11,312][INFO][web.core] #'web.core/log started
+STATUS | wrapper  | 2016/05/14 11:24:24 | CTRL-C trapped.  Shutting down.
+INFO   | jvm 1    | 2016/05/14 11:24:24 | [2016-05-14 11:24:24,562][INFO][luminus.http-server] HTTP server stopped
+INFO   | jvm 1    | 2016/05/14 11:24:24 | [2016-05-14 11:24:24,562][INFO][web.env] 
+INFO   | jvm 1    | 2016/05/14 11:24:24 | -=[web has shutdown successfully]=-
+INFO   | jvm 1    | 2016/05/14 11:24:24 | [2016-05-14 11:24:24,562][INFO][web.core] #'web.core/repl-server stopped
+INFO   | jvm 1    | 2016/05/14 11:24:24 | [2016-05-14 11:24:24,562][INFO][web.core] #'web.core/http-server stopped
+INFO   | jvm 1    | 2016/05/14 11:24:24 | [2016-05-14 11:24:24,562][INFO][web.core] #'web.handler/init-app stopped
+STATUS | wrapper  | 2016/05/14 11:24:24 | <-- Wrapper Stopped

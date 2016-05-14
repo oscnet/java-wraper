@@ -1,0 +1,102 @@
+[2016-05-14 11:17:17,906][INFO][web.env] 
+-=[web started successfully]=-
+[2016-05-14 11:17:20,468][INFO][luminus.http-server] starting HTTP server on port 3000
+[2016-05-14 11:17:20,500][INFO][org.xnio] XNIO version 3.4.0.Beta1
+[2016-05-14 11:17:20,515][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+[2016-05-14 11:17:20,671][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+[2016-05-14 11:17:20,671][INFO][web.core] #'web.config/env started
+[2016-05-14 11:17:20,671][INFO][web.core] #'web.handler/init-app started
+[2016-05-14 11:17:20,671][INFO][web.core] #'web.core/http-server started
+[2016-05-14 11:17:20,671][INFO][web.core] #'web.core/repl-server started
+[2016-05-14 11:17:20,671][INFO][web.core] #'web.core/log started
+[2016-05-14 11:17:40,953][INFO][luminus.http-server] HTTP server stopped
+[2016-05-14 11:17:40,953][INFO][web.env] 
+-=[web has shutdown successfully]=-
+[2016-05-14 11:17:40,953][INFO][web.core] #'web.core/repl-server stopped
+[2016-05-14 11:17:40,953][INFO][web.core] #'web.core/http-server stopped
+[2016-05-14 11:17:40,953][INFO][web.core] #'web.handler/init-app stopped
+[2016-05-14 11:22:37,500][INFO][web.env] 
+-=[web started successfully]=-
+[2016-05-14 11:22:40,015][INFO][luminus.http-server] starting HTTP server on port 3000
+[2016-05-14 11:22:40,046][INFO][org.xnio] XNIO version 3.4.0.Beta1
+[2016-05-14 11:22:40,062][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+[2016-05-14 11:22:40,218][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+[2016-05-14 11:22:40,218][INFO][web.core] #'web.config/env started
+[2016-05-14 11:22:40,218][INFO][web.core] #'web.handler/init-app started
+[2016-05-14 11:22:40,218][INFO][web.core] #'web.core/http-server started
+[2016-05-14 11:22:40,218][INFO][web.core] #'web.core/repl-server started
+[2016-05-14 11:22:40,218][INFO][web.core] #'web.core/log started
+[2016-05-14 11:22:59,812][INFO][luminus.http-server] HTTP server stopped
+[2016-05-14 11:22:59,812][INFO][web.env] 
+-=[web has shutdown successfully]=-
+[2016-05-14 11:22:59,812][INFO][web.core] #'web.core/repl-server stopped
+[2016-05-14 11:22:59,812][INFO][web.core] #'web.core/http-server stopped
+[2016-05-14 11:22:59,812][INFO][web.core] #'web.handler/init-app stopped
+[2016-05-14 11:24:08,609][INFO][web.env] 
+-=[web started successfully]=-
+[2016-05-14 11:24:11,109][INFO][luminus.http-server] starting HTTP server on port 3000
+[2016-05-14 11:24:11,156][INFO][org.xnio] XNIO version 3.4.0.Beta1
+[2016-05-14 11:24:11,171][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+[2016-05-14 11:24:11,312][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+[2016-05-14 11:24:11,312][INFO][web.core] #'web.config/env started
+[2016-05-14 11:24:11,312][INFO][web.core] #'web.handler/init-app started
+[2016-05-14 11:24:11,312][INFO][web.core] #'web.core/http-server started
+[2016-05-14 11:24:11,312][INFO][web.core] #'web.core/repl-server started
+[2016-05-14 11:24:11,312][INFO][web.core] #'web.core/log started
+[2016-05-14 11:24:24,562][INFO][luminus.http-server] HTTP server stopped
+[2016-05-14 11:24:24,562][INFO][web.env] 
+-=[web has shutdown successfully]=-
+[2016-05-14 11:24:24,562][INFO][web.core] #'web.core/repl-server stopped
+[2016-05-14 11:24:24,562][INFO][web.core] #'web.core/http-server stopped
+[2016-05-14 11:24:24,562][INFO][web.core] #'web.handler/init-app stopped
+[2016-05-14 11:24:40,890][INFO][web.env] 
+-=[web started successfully]=-
+[2016-05-14 11:24:43,156][INFO][luminus.http-server] starting HTTP server on port 3000
+[2016-05-14 11:24:43,203][INFO][org.xnio] XNIO version 3.4.0.Beta1
+[2016-05-14 11:24:43,218][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+[2016-05-14 11:24:43,359][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+[2016-05-14 11:24:43,359][INFO][web.core] #'web.config/env started
+[2016-05-14 11:24:43,359][INFO][web.core] #'web.handler/init-app started
+[2016-05-14 11:24:43,359][INFO][web.core] #'web.core/http-server started
+[2016-05-14 11:24:43,359][INFO][web.core] #'web.core/repl-server started
+[2016-05-14 11:24:43,359][INFO][web.core] #'web.core/log started
+[2016-05-14 11:24:47,875][INFO][luminus.http-server] HTTP server stopped
+[2016-05-14 11:24:47,875][INFO][web.env] 
+-=[web has shutdown successfully]=-
+[2016-05-14 11:24:47,875][INFO][web.core] #'web.core/repl-server stopped
+[2016-05-14 11:24:47,875][INFO][web.core] #'web.core/http-server stopped
+[2016-05-14 11:24:47,875][INFO][web.core] #'web.handler/init-app stopped
+[2016-05-14 14:12:30,625][INFO][web.env] 
+-=[web started successfully]=-
+[2016-05-14 14:12:32,968][INFO][luminus.http-server] starting HTTP server on port 3000
+[2016-05-14 14:12:33,015][INFO][org.xnio] XNIO version 3.4.0.Beta1
+[2016-05-14 14:12:33,031][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+[2016-05-14 14:12:33,171][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+[2016-05-14 14:12:33,171][INFO][web.core] #'web.config/env started
+[2016-05-14 14:12:33,171][INFO][web.core] #'web.handler/init-app started
+[2016-05-14 14:12:33,171][INFO][web.core] #'web.core/http-server started
+[2016-05-14 14:12:33,171][INFO][web.core] #'web.core/repl-server started
+[2016-05-14 14:12:33,171][INFO][web.core] #'web.core/log started
+[2016-05-14 14:12:43,312][INFO][luminus.http-server] HTTP server stopped
+[2016-05-14 14:12:43,312][INFO][web.env] 
+-=[web has shutdown successfully]=-
+[2016-05-14 14:12:43,312][INFO][web.core] #'web.core/repl-server stopped
+[2016-05-14 14:12:43,312][INFO][web.core] #'web.core/http-server stopped
+[2016-05-14 14:12:43,312][INFO][web.core] #'web.handler/init-app stopped
+[2016-05-14 14:13:28,562][INFO][web.env] 
+-=[web started successfully]=-
+[2016-05-14 14:13:30,937][INFO][luminus.http-server] starting HTTP server on port 3000
+[2016-05-14 14:13:30,968][INFO][org.xnio] XNIO version 3.4.0.Beta1
+[2016-05-14 14:13:30,984][INFO][org.xnio.nio] XNIO NIO Implementation Version 3.4.0.Beta1
+[2016-05-14 14:13:31,125][INFO][org.projectodd.wunderboss.web.Web] Registered web context /
+[2016-05-14 14:13:31,125][INFO][web.core] #'web.config/env started
+[2016-05-14 14:13:31,125][INFO][web.core] #'web.handler/init-app started
+[2016-05-14 14:13:31,125][INFO][web.core] #'web.core/http-server started
+[2016-05-14 14:13:31,125][INFO][web.core] #'web.core/repl-server started
+[2016-05-14 14:13:31,125][INFO][web.core] #'web.core/log started
+[2016-05-14 14:13:55,156][INFO][luminus.http-server] HTTP server stopped
+[2016-05-14 14:13:55,156][INFO][web.env] 
+-=[web has shutdown successfully]=-
+[2016-05-14 14:13:55,156][INFO][web.core] #'web.core/repl-server stopped
+[2016-05-14 14:13:55,156][INFO][web.core] #'web.core/http-server stopped
+[2016-05-14 14:13:55,156][INFO][web.core] #'web.handler/init-app stopped
